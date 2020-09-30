@@ -5,6 +5,6 @@ Subjects :
 Data Structure as DS
 Digital Electronics as DE
 Fundation Course in Humanities as FCH
-IT Workshop as ITW
+IT Workshop as IT
 Object Oriented Programming as OOPs
 Mathematics-III as MATH3
