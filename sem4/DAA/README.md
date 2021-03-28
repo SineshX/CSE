@@ -32,4 +32,33 @@ Approximation algorithms, Randomized algorithms, Heuristics and their characteri
 
 
 # Design & Analysis of Algorithms Lab 
-###  <>List of Experiments : 
+###  List of Experiments : 
+
+[] Task 1: Code and analyze solutions to following problem with given strategies:
+    i. Knap Sack using greedy approach
+    ii. Knap Sack using dynamic approach
+  
+[] Task 2: Code and analyze to find an optimal solution to matrix chain multiplication using dynamic programming.
+
+[] Task 3: Code and analyze to find an optimal solution to TSP using dynamic programming.
+
+[] Task 4: Implementing an application of DFS such as:
+    i. to find the topological sort of a directed acyclic graph
+    ii. to find a path from source to goal in a maze.
+    
+[] Task 5: Implement an application of BFS such as:
+    i. to find connected components of an undirected graph
+    ii.to check whether a given graph is bipartite.
+    
+[] Task 6: Code and analyze to find shortest paths in a graph with positive edge weights using Dijkstra’s algorithm.
+
+[] Task 7: Code and analyze to find shortest paths in a graph with arbitrary edge weights using Bellman-Ford algorithm.
+
+[] Task 8: Code and analyze to find shortest paths in a graph with arbitrary edge weights using Flyods’ algorithm.
+
+[] Task 9: Code and analyze to find the minimum spanning tree in a weighted, undirected graph using Prims’ algorithm
+
+[] Task 10: Code and analyze to find the minimum spanning tree in a weighted, undirected graph using Kruskals’ algorithm.
+
+[] Task 11: Coding any real world problem or TSP algorithm using any heuristic technique.
+
