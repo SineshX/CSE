@@ -1,4 +1,4 @@
-# Design & Analysis of Algorithms 
+# Design and Analysis of Algorithms 
 Detailed Contents:
 
 ## Module 1: Introduction
@@ -29,3 +29,7 @@ Cook’s theorem, Standard NP-complete problems and Reduction techniques.
 ## Module 5: Advanced Topics
 Approximation algorithms, Randomized algorithms, Heuristics and their characteristics.
 [6 hrs] (CO1, CO4, CO5
+
+
+# Design & Analysis of Algorithms Lab 
+### <u>  List of Experiments : </u>
