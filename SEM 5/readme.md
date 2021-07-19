@@ -7,43 +7,42 @@
 
 
 
-# Database Management Systems
+# 1) Database Management Systems
 
 
 
-# Formal Language & Automata Theory
+# 2) Formal Language & Automata Theory
 
 
-# Software Engineering
-
-
-
-# Computer Networks
+# 3) Software Engineering
 
 
 
-# Programming in Python
+# 4) Computer Networks
 
 
-# Mobile Application Development
+
+# 5) Programming in Python
+
+
+# 6) Mobile Application Development
 
 # LAB 
 
-# Database Management Systems LAB
+## (i) Database Management Systems LAB
 
 
-# Software Engineering LAB
+## (ii) Software Engineering LAB
 
 
-# Computer Networks LAB
+## (iii) Computer Networks LAB
 
-# PYTHON Lab
+## (iv) PYTHON Lab
 
-# MAD lab
+## (v) MAD lab
 
 
-
-# Industrial Training
+# 7) Industrial Training
 
 
 
