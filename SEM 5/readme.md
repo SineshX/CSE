@@ -27,6 +27,9 @@
 
 # 6) Mobile Application Development
 
+
+# 7) Industrial Training
+
 # LAB 
 
 ## (i) Database Management Systems LAB
@@ -42,7 +45,6 @@
 ## (v) MAD lab
 
 
-# 7) Industrial Training
 
 
 
