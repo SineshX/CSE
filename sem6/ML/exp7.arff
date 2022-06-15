@@ -1,0 +1,12 @@
+@relation weather
+
+@attribute juice {true, false}
+@attribute milk {true, false}
+@attribute bread {true, false}
+@attribute cheese {true, false}
+
+@data
+?, ?, true, true
+?, true, true, true
+?, true, true, ?
+true, true, ?, true
