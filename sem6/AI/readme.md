@@ -1,7 +1,7 @@
-# AI LAB
+## AI LAB
 # 1. DFS (usinformed search)
-# https://www.educative.io/edpresso/how-to-implement-a-breadth-first-search-in-python
-```
+## https://www.educative.io/edpresso/how-to-implement-a-breadth-first-search-in-python
+```python
 graph = { 'a' : ['b', 'c'],
             'b' : ['d', 'e'], 
             'c' : ['f'], 
@@ -23,8 +23,8 @@ dfs(graph , visited, 'a')
 ```
 
 # 2. Best First Search. : informed search
-# https://www.educative.io/edpresso/what-are-informed-search-algorithms
-```
+## https://www.educative.io/edpresso/what-are-informed-search-algorithms
+```python
 from queue import PriorityQueue
 # store a graph in a dictionary
 graph = dict()
@@ -83,9 +83,9 @@ else:
     print('no path found')
 ```
 # 3. A Star Search : infromed Search 
-# https://www.educative.io/edpresso/what-are-informed-search-algorithms
-# https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/a-star-algorithm
-```
+## https://www.educative.io/edpresso/what-are-informed-search-algorithms
+## https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/a-star-algorithm
+```python
 tree = {'S': [['A', 1], ['B', 5], ['C', 8]],
         'A': [['S', 1], ['D', 3], ['E', 7], ['G', 9]],
         'B': [['S', 5], ['G', 4]],
@@ -157,9 +157,9 @@ if __name__ == '__main__':
    ```
    
 # 4. Bayesian network from given data 
-# feed some values :) 
-# Implement Bayesian Network
-```
+### feed some values :) 
+##### Implement Bayesian Network
+```python
 def stringMod1(n, fill):
     string = bin(n).replace("0b", "").zfill(fill).replace("0","t").replace("1","0").replace("t","1")
     # print(string)
@@ -254,9 +254,8 @@ print(f"Joint Probability Distribution : {joint_calc}")
 
 
 # 5. WAP to construct value and policy iteration in a grid world
-# https://towardsdatascience.com/reinforcement-learning-implement-grid-world-from-scratch-c5963765ebff#:~:text=Value%20iteration,%20just%20as%20its,initialises%20all%20reward%20as%200.
-# 
-```
+## https://towardsdatascience.com/reinforcement-learning-implement-grid-world-from-scratch-c5963765ebff#:~:text=Value%20iteration,%20just%20as%20its,initialises%20all%20reward%20as%200.
+```python
 import numpy as np
 
 # global variables Rules for board.
