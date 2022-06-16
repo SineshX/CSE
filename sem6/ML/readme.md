@@ -3,7 +3,7 @@ NUMPY, PANDAS, Matplotlib
 # 2. Pearson Correlation Coefficient. 
 
 
-```
+```python
 # %%
 # WAP to determine Pearson Correlation Coefficient   
 import pandas
@@ -78,7 +78,7 @@ elif(r > 0 ):
 
 # 3. Simple regression without any inbuilt library.
 
-```
+```python
 # %%
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -144,7 +144,7 @@ plt.show()
 # 4. Simple regression using different library. 
 
 
-```
+```python
 # Simple Linear Regression With scikit-learn.  
 from sklearn.linear_model import LinearRegression
 import pandas as pd
@@ -191,9 +191,12 @@ plt.show()
 
 
 ```
+
+
+
 # 5. Multiple regression using different library. 
 
-```
+```python
 # Multiple Linear Regression With scikit-learn.  
 from sklearn.linear_model import LinearRegression
 import pandas as pd
@@ -226,7 +229,7 @@ print(df)
 # 6. Find association rules from given dataset using Naïve algorithm. 
 
 
-```
+```python
 from itertools import chain, combinations
 
 def all_combo(iterable):
@@ -366,7 +369,8 @@ Weka
 
 # 8. WAP to implement single Neural Network.
 
-```
+
+```python
 import numpy as np 
 
 np.random.seed(101) #fixing the seed 
